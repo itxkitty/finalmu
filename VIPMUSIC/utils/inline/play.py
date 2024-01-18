@@ -32,7 +32,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/vip_creators",
+              url="https://t.me/llMYABOUTll",
             ),
         ],
     ]
@@ -93,7 +93,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/BOY_GIRL_DP",
+              url="https://t.me/llMYABOUTll",
             ),
         ],
     ]
